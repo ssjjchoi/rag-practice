@@ -1,4 +1,5 @@
 pymupdf
+numpy
 faiss-cpu
 sentence-transformers
-numpy
+langchain-text-splitters
